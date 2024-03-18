@@ -1,4 +1,48 @@
-Air Quality in PPM=306
-Fresh Air
-Air Quality in PPM=306
+ity in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 280.00
+Very Poor Air
+Air Quality in PPM = 85.00
 Fresh Air 
+Air Quality in PPM = 85.00
+Fresh Air 
+Air Quality in PPM = 85.00
+Fresh Air 
+Air Quality in PPM = 85.00
+Fresh Air 
+Air Quality in PPM = 146.00
+Poor Air
+Air Quality in PPM = 93.00
+Fresh Air 
+Air Quality in PPM = 119.00
+Poor Air
+Air Quality in PPM = 230.00
+Very Poor Air
+Air Quality in PPM = 95.00
+Fresh Air 
+Air Quality in PPM = 131.00
+Poor Air
+Air Quality in PPM = 344.00
+Very Poor Air
+Air Quality in PPM = 119.00
+Poor Air
+Air Quality in PPM = 85.00
+Fresh Air 
+Air Quality in PPM = 256.00
+Very Poor Air
+Air Quality in PPM = 256.00
+Very Poor Air
+Air Quality in PPM = 256.00
+Very Poor Air
